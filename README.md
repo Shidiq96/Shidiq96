@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Shidiq Arif Setiawan 👋
 
-Semarang, Indonesia · [Email](am5841951@gmail.com) · [LinkedI](https://www.linkedin.com/in/muhammad-shidiq-smkhidayah)
+Semarang, Jawa Tengah, Indonesia · [Email](am5841951@gmail.com) · [LinkedI](https://www.linkedin.com/in/muhammad-shidiq-smkhidayah)
 
 ---
 
