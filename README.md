@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Muhammad Shidiq Arif Setiawan 👋
 
-<!--
-**Shidiq96/Shidiq96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Semarang, Indonesia · [Email](am5841951@gmail.com) · [LinkedI](https://www.linkedin.com/in/muhammad-shidiq-smkhidayah)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Web Developer
+
+Membangun sistem server-side yang efisien dan scalable.
+
+**Stack:**
+`Node.js` `PHP` `MySQL` `Laravel` `REST API` `HTML` `CSS` `JavaScript`
+
+---
+
+## 🎨 Poster Designer
+
+Mendesain poster untuk event, kuliner, dan konten digital.
+
+**Tools:** `Photoshop` `Illustrator` `Figma` `Canva`
+
+---
+
+## 🍳 Cooker
+
+Hobi dalam memasak dan berkreasi dalam bidang kuliner.
+
+**Spesialisasi:** `Plating` `Cooking` `Servicing`
